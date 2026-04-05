@@ -1,0 +1,724 @@
+Agisci come un esperto di product design, UX, marketing e sviluppo di marketplace digitali.
+
+Crea la struttura completa di un sito web chiamato "AssumereSubito.it", una piattaforma innovativa di recruiting che mette in contatto aziende e candidati in modo veloce, filtrato e anonimo.
+
+OBIETTIVO:
+Verticalizzare il più possibile il servizio per settori specifici e rendere il processo di assunzione rapido, semplice e senza sprechi di tempo.
+
+CONCEPT PRINCIPALE:
+
+* Marketplace del lavoro “a rovescio”
+* I candidati si registrano gratuitamente
+* Le aziende pagano solo quando assumono
+* Tutti gli utenti sono inizialmente anonimi
+
+ANONIMATO:
+
+* Nessun nome completo visibile
+* Solo iniziali (es: M.R., L.B.)
+* Ogni utente è rappresentato da un avatar realistico
+* Gli avatar devono rispecchiare il ruolo lavorativo (es: agente immobiliare, operaio, cameriere, impiegato)
+
+VERTICALIZZAZIONE:
+Il sito deve essere organizzato per settori, con pagine dedicate:
+
+* immobiliare
+* ristorazione
+* logistica
+* edilizia
+* uffici/amministrazione
+* commercio
+
+Ogni settore ha:
+
+* landing dedicata
+* candidati specifici
+* messaggi personalizzati
+
+FLUSSO CANDIDATO:
+
+1. Registrazione gratuita
+2. Compilazione scheda dettagliata:
+
+   * età
+   * provincia/regione
+   * esperienza
+   * settore
+   * disponibilità
+   * automunito/patente
+3. Creazione avatar automatico
+4. Accesso al sistema
+5. Possibilità di candidarsi o essere contattato
+
+FLUSSO AZIENDA:
+
+1. Registrazione
+2. Inserimento posizione
+3. Accesso a candidati filtrati
+4. Obbligo/forte raccomandazione di contatto entro 48 ore
+
+PRICING:
+
+* Accesso base gratuito
+* Pagamento solo in caso di assunzione (1 mensilità o % RAL)
+* Possibile abbonamento per accesso premium
+
+FUNZIONALITÀ CHIAVE:
+
+* Matching automatico candidati-aziende
+* Sistema di punteggio candidati
+* Notifiche immediate
+* Timer 48 ore per contatto candidato
+* Filtri avanzati
+
+TONO DI VOCE:
+
+* diretto
+* concreto
+* orientato al risultato
+* zero linguaggio HR classico
+
+GENERARE:
+
+1. Struttura completa del sito (homepage + pagine)
+2. Copy della homepage ad alta conversione
+3. Struttura delle landing verticali (es. immobiliare, ristorazione)
+4. UX flow utente (candidato e azienda)
+5. Descrizione sistema avatar (come devono essere, stile visivo)
+6. Naming delle sezioni
+7. Call to action principali
+8. Posizionamento unico rispetto ai competitor
+
+Obiettivo finale:
+creare una piattaforma che sembri veloce, moderna, affidabile e diversa dai classici portali lavoro.
+
+🧠 1. HOMEPAGE (copy che converte)
+🔥 HERO (prima schermata)
+
+Titolo:
+
+Assumi personale qualificato in meno di 48 ore
+
+Sottotitolo:
+
+Niente CV inutili. Solo candidati pronti, già filtrati e disponibili.
+
+CTA doppia:
+
+👉 Sono un’azienda
+👉 Cerco lavoro
+💥 SEZIONE PROBLEMA
+
+Stai perdendo tempo con candidati che non rispondono?
+Ricevi CV inutili?
+Hai urgenza ma nessuno è davvero disponibile?
+
+👉 Qui agganci forte il dolore
+
+⚡ SEZIONE SOLUZIONE
+
+Con AssumereSubito:
+
+Ricevi solo candidati filtrati
+Visualizzi profili anonimi (zero perdite di tempo)
+Contatti entro 48h i profili migliori
+
+💥 semplice, diretto, zero fuffa
+
+🔁 COME FUNZIONA
+🏢 Per aziende
+Pubblica la ricerca
+Ricevi candidati filtrati
+Contatta entro 48h
+Assumi
+
+👉 Paghi solo se assumi
+
+👤 Per candidati
+Registrazione gratuita
+Compili il profilo
+Vieni proposto alle aziende
+Ricevi richieste di colloquio
+💣 DIFFERENZA
+
+Non è un portale di lavoro.
+È un sistema che ti porta persone pronte.
+
+🔒 ANONIMATO
+
+I profili sono anonimi:
+solo iniziali + avatar realistico
+
+👉 aumenta curiosità
+👉 aumenta contatti
+
+🚀 CTA FINALE
+
+Vuoi assumere subito?
+
+👉 Registrati gratis
+
+🎯 2. LANDING VERTICALI (questa è la tua arma segreta)
+
+Esempio: IMMOBILIARE
+
+🏠 Assumi agenti immobiliari in meno di 48 ore
+
+Trova persone già motivate, con esperienza o pronte a iniziare.
+
+Problema:
+candidati poco seri
+perdita di tempo
+turnover alto
+Soluzione:
+candidati filtrati
+già disponibili
+contatto rapido
+
+👉 CTA:
+Trova agenti disponibili ora
+
+🔁 Replichi per:
+ristorazione
+logistica
+edilizia
+retail
+
+💥 BOOM: verticalizzazione fatta
+
+🧠 3. UX FLOW (semplice = funziona)
+👤 CANDIDATO
+Entra
+Compila (2–3 min max)
+Ottiene avatar
+Va online
+
+👉 NOTA:
+deve essere velocissimo → se no abbandonano
+
+🏢 AZIENDA
+Entra
+Inserisce ruolo
+Vede candidati subito
+Contatta
+
+👉 niente complicazioni
+
+🎨 4. SISTEMA AVATAR (questa è figata vera)
+🔹 Come devono essere:
+realistici ma non foto vere
+stile moderno (tipo AI-generated)
+coerenti con lavoro
+🔹 Esempi:
+agente immobiliare → elegante, giacca
+operaio → casco, alta visibilità
+cameriere → divisa
+impiegato → ufficio
+🔥 Perché funziona:
+anonimato
+storytelling visivo
+riconoscibilità immediata
+⚡ 5. FEATURE CHE FANNO LA DIFFERENZA
+⏱ Timer 48h
+
+“Hai 32 ore per contattare questo candidato”
+
+💥 urgenza reale
+
+🟢 Stato candidato
+disponibile subito
+valutando offerte
+occupato ma interessato
+⭐ Ranking
+top candidati evidenziati
+🔔 Notifiche
+
+“Nuovo candidato nella tua zona”
+
+💰 6. PAGINA PREZZI (semplice = vende)
+GRATUITO
+registrazione
+accesso base
+PAY PER HIRE
+
+Paghi solo se assumi
+
+👉 1 mensilità
+
+PREMIUM
+più visibilità
+più candidati
+priorità
+💣 7. POSIZIONAMENTO FINALE
+
+👉 Non sei:
+
+LinkedIn
+Indeed
+
+👉 Sei:
+
+“Il modo più veloce per assumere senza perdere tempo”
+
+🚀 8. NOME + SLOGAN (chiudi forte)
+
+AssumereSubito.it
+
+👉 slogan:
+
+“Paghi solo se assumi”
+“Candidati pronti in 48 ore”
+“Stop CV inutili”
+🧠 CONCLUSIONE
+
+Hai creato una roba che funziona se:
+
+è veloce
+è semplice
+crea urgenza
+
+👉 e soprattutto:
+💥 fa risparmiare tempo
+
+🧠 3. UX FLOW (semplice = funziona)
+👤 CANDIDATO
+Entra
+Compila (2–3 min max)
+Ottiene avatar
+Va online
+
+👉 NOTA:
+deve essere velocissimo → se no abbandonano
+
+🏢 AZIENDA
+Entra
+Inserisce ruolo
+Vede candidati subito
+Contatta
+
+👉 niente complicazioni
+
+🎨 4. SISTEMA AVATAR (questa è figata vera)
+🔹 Come devono essere:
+realistici ma non foto vere
+stile moderno (tipo AI-generated)
+coerenti con lavoro
+🔹 Esempi:
+agente immobiliare → elegante, giacca
+operaio → casco, alta visibilità
+cameriere → divisa
+impiegato → ufficio
+🔥 Perché funziona:
+anonimato
+storytelling visivo
+riconoscibilità immediata
+⚡ 5. FEATURE CHE FANNO LA DIFFERENZA
+⏱ Timer 48h
+
+“Hai 32 ore per contattare questo candidato”
+
+💥 urgenza reale
+
+🟢 Stato candidato
+disponibile subito
+valutando offerte
+occupato ma interessato
+⭐ Ranking
+top candidati evidenziati
+🔔 Notifiche
+
+“Nuovo candidato nella tua zona”
+
+💰 6. PAGINA PREZZI (semplice = vende)
+GRATUITO
+registrazione
+accesso base
+PAY PER HIRE
+
+Paghi solo se assumi
+
+👉 1 mensilità
+
+PREMIUM
+più visibilità
+più candidati
+priorità
+💣 7. POSIZIONAMENTO FINALE
+
+👉 Non sei:
+
+LinkedIn
+Indeed
+
+👉 Sei:
+
+“Il modo più veloce per assumere senza perdere tempo”
+
+🚀 8. NOME + SLOGAN (chiudi forte)
+
+AssumereSubito.it
+
+👉 slogan:
+
+“Paghi solo se assumi”
+“Candidati pronti in 48 ore”
+“Stop CV inutili”
+🧠 CONCLUSIONE
+
+Hai creato una roba che funziona se:
+
+è veloce
+è semplice
+crea urgenza
+
+👉 e soprattutto:
+💥 fa risparmiare tempo
+
+Se vuoi il prossimo step è pesante davvero:
+👉 ti faccio wireframe stile app (come se la sviluppassi domani)
+👉 oppure script per vendere alle aziende al telefono 😏
+
+OK
+
+Perfetto 😎 allora possiamo fare il passo successivo per rendere AssumereSubito.it pronto a girare davvero.
+
+Ecco come suggerisco di procedere subito per non perdere slancio:
+
+1️⃣ Wireframe / UX rapido
+Homepage: hero, problema, soluzione, CTA (azienda / candidato)
+Landing verticali: immobiliari, ristorazione, logistica ecc.
+Flusso candidato: registrazione → scheda → avatar → visibilità
+Flusso azienda: registrazione → ricerca → candidati filtrati → timer 48h
+Sistema avatar: impostazione automatica in base al ruolo
+
+💡 L’obiettivo: qualunque designer o dev può partire subito senza dover capire il concept.
+
+2️⃣ Script vendite aziende
+Script telefonico + email di contatto
+Focus su:
+“Paghi solo se assumi”
+“Candidati filtrati e pronti in 48h”
+Urgenza reale + rischio zero
+
+💥 Serve per chiudere i primi clienti e avere casi studio reali.
+
+3️⃣ Setup database / backend
+Tabelle candidati: iniziali, avatar, dati base e opzionali
+Tabelle aziende: dati, ruoli aperti, timer 48h
+Matching automatico: primo filtro → solo candidati pertinenti
+Notifiche email/push → reminder 48h
+
+💡 Backend semplice ma scalabile per aggiungere verticali senza rifare tutto.
+
+4️⃣ Branding & grafica
+Palette colori moderna (fiducia + concretezza)
+Avatar realistici ma stilizzati
+Sezioni chiare, pulite, zero fronzoli HR
+Icone intuitive per settori e filtri
+5️⃣ Contenuti / copy
+Homepage: già pronta
+Landing verticali: 1 per settore (immobiliare, ristorazione ecc.)
+CTA: “Trova subito candidati” / “Registrati gratis”
+Messaggi urgenti: “Hai 48h per contattare questo candidato”
+
+Se vuoi, posso crearti subito un wireframe testuale completo:
+👉 ogni pagina, sezione e CTA, con flusso candidato e azienda già pronto.
+
+Così avresti una “mappa completa” del sito da dare a chi sviluppa.
+
+Vuoi che faccia questo passo adesso?
+
+SI
+
+Perfetto! 😏 Allora ti creo un wireframe testuale completo di AssumereSubito.it, con homepage, landing verticali, flussi candidato/azienda, CTA e sezioni chiave, pronto da dare a un dev o designer.
+
+🏗 AssumereSubito.it – Wireframe Testuale Completo
+1️⃣ HOMEPAGE
+
+Hero (prima schermata):
+
+Titolo: “Assumi personale qualificato in meno di 48 ore”
+Sottotitolo: “Niente CV inutili. Solo candidati pronti, già filtrati e disponibili”
+CTA primaria: “Sono un’azienda” → porta al flusso registrazione azienda
+CTA secondaria: “Cerco lavoro” → porta al flusso registrazione candidato
+Background: illustrazione moderna di avatar per diversi ruoli
+
+Sezione Problema:
+
+Titolo: “Stai perdendo tempo con candidati non pronti?”
+Bullet points:
+CV incompleti o vecchi
+Risposte lente o assenti
+Difficoltà a trovare profili seri
+
+Sezione Soluzione:
+
+Titolo: “AssumereSubito risolve tutto”
+Bullet points:
+Ricevi solo candidati filtrati
+Contatti entro 48h
+Profilo anonimo con avatar realistico
+
+Sezione Come Funziona:
+
+Colonna 1: Azienda
+Passo 1: Pubblica la posizione
+Passo 2: Ricevi candidati filtrati
+Passo 3: Contatta entro 48h
+Passo 4: Assumi → pagamento solo se assumi
+Colonna 2: Candidato
+Passo 1: Registrazione gratuita
+Passo 2: Compila profilo e crea avatar
+Passo 3: Proposto alle aziende
+Passo 4: Ricevi richieste di colloquio
+
+Sezione CTA Finale:
+
+“Inizia subito → Registrati gratis”
+
+Footer:
+
+Link: Chi siamo, Privacy, Termini, Contatti
+Social media
+2️⃣ LANDING VERTICALI (esempio: Immobiliare, Ristorazione, Logistica…)
+
+Hero:
+
+Titolo: “Assumi [ruolo settore] in meno di 48 ore”
+CTA: “Trova subito candidati”
+
+Sezione Problema/Soluzione:
+
+Bullet points adattati al settore
+
+Sezione Candidati Disponibili:
+
+Griglia avatar con iniziali (es: M.R., L.B.)
+Filtri: esperienza, disponibilità, automunito, patente, full/part-time
+
+CTA: “Contatta candidati pronti” → reminder 48h
+
+3️⃣ FLUSSO CANDIDATO
+
+Step 1 – Registrazione:
+
+Nome / Cognome (iniziali)
+Email / Telefono
+Password
+
+Step 2 – Scheda Profilo:
+
+Obbligatori: età, provincia/regione, settore, esperienza
+Facoltativi: studi, lingue, CV, video presentazione
+
+Step 3 – Avatar automatico:
+
+Avatar realistico in base al ruolo (es: cameriere, operaio, agente)
+
+Step 4 – Visibilità:
+
+Accesso a piattaforma
+Possibilità di candidarsi
+Ricevere richieste aziende
+4️⃣ FLUSSO AZIENDA
+
+Step 1 – Registrazione:
+
+Nome azienda, settore, provincia/regione, dimensione
+
+Step 2 – Inserimento posizione:
+
+Ruolo, esperienza richiesta, tipo contratto, RAL, urgenza
+
+Step 3 – Accesso candidati:
+
+Lista filtrata di avatar con iniziali
+Timer 48h → reminder automatico
+
+Step 4 – Contatto:
+
+Chat/email interna
+Flag candidato contattato
+5️⃣ SISTEMA AVATAR
+
+Requisiti:
+
+Realistici, stilizzati, coerenti con ruolo
+Ruolo visibile tramite vestizione/elementi (es: casco, giacca, divisa)
+Funzione: anonimizzare e dare identità visiva immediata
+6️⃣ PAGINA PREZZI
+
+GRATUITO:
+
+Accesso base
+Registrazione candidati
+
+PAY PER HIRE:
+
+Paghi solo se assumi (1 mensilità o % RAL)
+
+PREMIUM:
+
+Priorità candidati
+Accesso a più filtri
+Consulenza HR inclusa
+7️⃣ FEATURE CHIAVE
+Timer 48h per contatto azienda
+Sistema ranking candidati
+Notifiche email/push
+Matching automatico
+Filtri avanzati (patente, automunito, full/part-time)
+8️⃣ CALL TO ACTION PRINCIPALI
+“Sono un’azienda” → flusso registrazione / ricerca candidati
+“Cerco lavoro” → registrazione candidato
+“Trova subito candidati” → landing verticale
+“Contatta ora” → reminder timer 48h
+9️⃣ POSIZIONAMENTO / SLOGAN
+Titolo: AssumereSubito.it
+Slogan principali:
+“Paghi solo se assumi”
+“Candidati pronti in 48 ore”
+“Stop CV inutili”
+
+Se vuoi, nel prossimo passo posso crearti anche un mockup testuale della dashboard con:
+
+Lista candidati per settore
+Timer 48h visibile
+Ranking / stato del candidato
+Filtri e azioni rapide
+
+Così hai tutto pronto per sviluppo full-stack o designer UI/UX.
+
+Vuoi che faccia questo mockup della dashboard?
+
+PROSEGUI
+
+Perfetto 😎 allora entriamo nel mockup testuale della dashboard di AssumereSubito.it, così hai tutto il flusso operativo pronto da dare a un dev o UI designer.
+
+🏗 DASHBOARD AZIENDA – MOCKUP TESTUALE
+1️⃣ HEADER
+Logo: AssumereSubito.it
+Menu: Home | Candidati | Ricerche | Profilo Azienda | Supporto | Logout
+Notifiche: icona campanella → nuovi candidati disponibili
+2️⃣ SEZIONE “RICERCHE ATTIVE”
+
+Tabella principale:
+
+Colonne:
+Ruolo richiesto
+Settore
+Località
+Data inserimento
+Timer 48h (countdown)
+Azione: “Visualizza candidati”
+
+Funzione Timer 48h:
+
+Evidenziato in rosso se <12h
+Reminder automatico email/push
+
+CTA veloce:
+
+“Inserisci nuova posizione”
+3️⃣ SEZIONE “CANDIDATI DISPONIBILI”
+
+Visualizzazione griglia / lista:
+
+Avatar + iniziali (es: M.R., L.B.)
+Settore / ruolo
+Esperienza (anni)
+Stato: Disponibile / Valutando / Occupato ma interessato
+Badge: “Top candidato” se punteggio alto
+
+Filtri rapidi:
+
+Esperienza minima
+Automunito / Patente
+Full-time / Part-time
+Regione / Provincia
+
+Azioni rapide per ciascun candidato:
+
+“Contatta ora” → chat/email interna
+“Aggiungi a shortlist”
+“Segna come contattato”
+4️⃣ SEZIONE “RANKING CANDIDATI”
+Classifica automatica basata su:
+Esperienza rilevante
+Disponibilità immediata
+Completamento profilo / scheda
+Matching con la posizione
+Visualizzazione Top 5 / Top 10
+Evidenziati con badge “🔥 Top candidato”
+5️⃣ SEZIONE “TIMER 48H / URGENZA”
+Barra progresso countdown per ogni candidato
+Colore:
+Verde > 24h
+Giallo 12–24h
+Rosso <12h
+Reminder automatico via email/push
+6️⃣ SEZIONE “FILTRI AVANZATI”
+Settore / ruolo
+Esperienza anni
+Automunito / Patente
+Disponibilità immediata / futura
+Località (provincia / regione)
+Tipologia contratto
+RAL desiderata
+
+💡 Tutti i filtri salvabili come preset per ricerche ricorrenti
+
+7️⃣ SEZIONE “AZIONI RAPIDE”
+Shortlist → creare una lista di candidati preferiti
+Contatto multiplo → invia messaggio / richiesta colloquio a più candidati contemporaneamente
+Esportazione dati → CSV dei candidati selezionati (senza info personali complete, solo iniziali e dati lavorativi)
+8️⃣ SEZIONE “NOTIFICHE / ALERT”
+Nuovi candidati abbinati
+Timer 48h scaduto / in scadenza
+Messaggi dai candidati (solo se hanno accettato contatto)
+Aggiornamenti piattaforma
+9️⃣ SEZIONE PROFILO AZIENDA
+Logo / immagine azienda
+Settore e dimensione
+Posizioni attive / storiche
+Cronologia contatti con candidati (anonima)
+Pagamenti / storico fee assunzione
+🏗 DASHBOARD CANDIDATO – MOCKUP TESTUALE
+1️⃣ HEADER
+Logo: AssumereSubito.it
+Menu: Home | Profilo | Posizioni | Messaggi | Logout
+Notifiche: richieste azienda / nuove posizioni
+2️⃣ SEZIONE PROFILO
+Avatar generato
+Iniziali
+Settore / ruolo desiderato
+Esperienza / competenze
+Località / disponibilità
+Stato: Disponibile / Valutando / Occupato
+Azioni:
+Modifica scheda
+Aggiorna avatar
+Visualizza match aziende
+3️⃣ SEZIONE MATCH AZIENDE
+Lista aziende compatibili (anonime)
+Posizione offerta / settore
+Scadenza contatto (timer 48h)
+Badge: “Top match”
+CTA: “Accetta contatto” / “Rifiuta”
+4️⃣ SEZIONE MESSAGGI
+Chat interna con aziende solo dopo contatto accettato
+Cronologia messaggi
+Notifiche push/email
+5️⃣ SEZIONE POSIZIONI
+Elenco posizioni candidabili
+Filtri per settore / esperienza / località
+CTA: “Candidati subito”
+6️⃣ SEZIONE FILTRI AVATAR / VISIBILITÀ
+Gestisci come vuoi apparire (avatar, settore, ruolo)
+Controllo privacy: chi può contattarti
+🔥 NOTE GENERALI
+Dashboard semplice e veloce, mobile first
+Tutto centrato sulla velocità → candidati + aziende
+Timer 48h sempre visibile
+Avatar + anonimato → elemento differenziante
+Filtri e ranking → aumentano conversione e soddisfazione utenti
